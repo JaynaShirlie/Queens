@@ -25,16 +25,13 @@ A logic puzzle built on the N-Queens problem. Place one queen per color region w
 ## Screenshots
 
 <p align="center">
-  <img src="./screenshots/1.jpeg" width="230" />
   <img src="./screenshots/2.jpeg" width="230" />
   <img src="./screenshots/3.jpeg" width="230" />
+  <img src="./screenshots/4.jpeg" width="230" />
 </p>
 <p align="center">
-  <img src="./screenshots/4.jpeg" width="230" />
   <img src="./screenshots/5.jpeg" width="230" />
   <img src="./screenshots/6.jpeg" width="230" />
-</p>
-<p align="center">
   <img src="./screenshots/7.jpeg" width="230" />
 </p>
 
