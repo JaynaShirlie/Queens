@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/044/009/949/small/pink-coquette-ribbon-bow-clipart-aesthetic-watercolor-illustration-png.png" width="60" alt="bow" />
+  <img src="https://static.vecteezy.com/system/resources/previews/065/444/105/non_2x/soft-pink-bow-no-shadow-design-on-transparent-background-free-png.png" width="60" alt="pink bow" />
 </p>
 
 ## About
